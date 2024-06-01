@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://cherrycoder9.github.io/zerodi/testhugo1"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
 theme = "hello-friend-ng"
